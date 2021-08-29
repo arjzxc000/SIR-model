@@ -5,6 +5,7 @@ I choose this model instead of using SEIR model or other model which related wit
 I also consider the vaccinated as Susceptible because the vaccine can't cover for infected. That's why we consider as only 3-state deterministic model (SIR model)
 <br>
 <h4> My scope </h4>
+my dataset was fetched from https://covid19.th-stat.com/ 's api <br>
 I use the model to predict new confirmed cases on 17, 24 and 31 August 2021
 <h2>for further read<h2>
 <a href='https://arxiv.org/abs/2003.00122'>A Time-dependent SIR model for COVID-19 with Undetectable Infected Persons</a>
